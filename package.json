@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "woowacourse",
-  "homepage": "https://{username}.github.io/perf-basecamp",
+  "homepage": "https://soi-ha.github.io/perf-basecamp",
   "license": "MIT",
   "dependencies": {
     "@giphy/js-fetch-api": "^4.1.1",
@@ -51,6 +51,7 @@
     "eslint-plugin-promise": "^6.0.1",
     "eslint-plugin-react": "^7.31.1",
     "file-loader": "^6.2.0",
+    "gh-pages": "^6.1.1",
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.2",
     "prettier": "^2.3.2",
